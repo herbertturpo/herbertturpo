@@ -1,4 +1,3 @@
-## Hi there 👋
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/herbertturpo/herbertturpo/blob/main/DataAnalystLinkedInBanner.png" width="800"/>
 </div>
@@ -72,8 +71,5 @@ Here are some ideas to get you started:
 ---
 
 ### :medal_military: My statistics  :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertturpo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
