@@ -2,7 +2,7 @@
   <img decoding="async" src="https://github.com/herbertturpo/herbertturpo/blob/main/DataAnalystLinkedInBanner.png" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heriberto-turpo-quiro)
 
 [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
